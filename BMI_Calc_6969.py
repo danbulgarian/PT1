@@ -15,7 +15,7 @@ def bmi_calculator(name, height_m, weight_kg):
     bmi = weight_kg / (height_m ** 2)
     print("bmi: ")
     print(bmi)
-    if bmi < 25:
+    if bmi < 25:   
         return name + " не е дебела"
     else:
         return name + " е мега дебел"
