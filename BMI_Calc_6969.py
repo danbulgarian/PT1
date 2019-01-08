@@ -8,8 +8,8 @@ height_m2 = 1.70
 weight_kg2 = 53
 
 name3 = "Ivana"
-height_m3 = 1.76
-weight_kg3 = 46
+height_m3 = 1.40
+weight_kg3 = 60
 
 def bmi_calculator(name, height_m, weight_kg):
     bmi = weight_kg / (height_m ** 2)
