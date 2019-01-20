@@ -6,5 +6,3 @@ averageDataUsage = 2
 totalOfUsedSpaceinMB = totalUsers5yrs * averageDataUsage
 print ("Total MB of used space: {:,} MB, or {:,} GB.".format(totalOfUsedSpaceinMB, totalOfUsedSpaceinMB/1024 ))
 
-
-def
